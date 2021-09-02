@@ -1,2 +1,2 @@
-#이름:
+#이름: 계이름
 print('Hello, World')
